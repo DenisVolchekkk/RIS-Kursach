@@ -1,0 +1,2003 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\diplom\\diplom\\StudyProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\chief.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\attendance\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\attendanceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\schedule\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\schedule\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\schedule\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\teacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\attendance\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\attendance\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\chiefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\semestr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\timespanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\chiefviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\attendance\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\facilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\semestrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\attendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\discipline\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\schedulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\teacherrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\scheluderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\scheluderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\facilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\facilityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\grouprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\semestrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\semestrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\facilitycontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\facilitycontrroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\discipline\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\disciplineviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\teacher\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\teacher\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\teacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\teacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\schedule\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\group\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\group\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\group\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\groupviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\viewmodel\\facilityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\models\\facility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\discipline\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\discipline\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\chief\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\chief\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\chief\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\facility\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\facility\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\facility\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\facility\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\studyproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:studyproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\group\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\chiefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\chiefcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\paginatedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\chief\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\register\\authentication.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\register\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\resetpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\registrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\userforauthenticationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\dto\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\seedconfiguration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:seedconfiguration\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\seedconfiguration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:seedconfiguration\\userroleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\disciplinereposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\disciplinereposotory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\chiefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\chiefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\implementations\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\implementations\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:repositories\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\jwtfeatures\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:jwtfeatures\\jwthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF98364D-A214-4CA2-BEB4-EE2D1E03B31C}|..\\EmailService\\EmailService.csproj|e:\\diplom\\diplom\\emailservice\\emailservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF98364D-A214-4CA2-BEB4-EE2D1E03B31C}|..\\EmailService\\EmailService.csproj|e:\\diplom\\diplom\\emailservice\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF98364D-A214-4CA2-BEB4-EE2D1E03B31C}|..\\EmailService\\EmailService.csproj|e:\\diplom\\diplom\\emailservice\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF98364D-A214-4CA2-BEB4-EE2D1E03B31C}|..\\EmailService\\EmailService.csproj|e:\\diplom\\diplom\\emailservice\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\presentation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F5F873-3DE3-47A4-BDE7-EF7E9A291DA6}|..\\Domain\\Domain.csproj|e:\\diplom\\diplom\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C61F17F2-47D7-4AF7-9991-E2F1032144C0}|..\\Presentation\\Presentation.csproj|e:\\diplom\\diplom\\presentation\\views\\semestr\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF98364D-A214-4CA2-BEB4-EE2D1E03B31C}|..\\EmailService\\EmailService.csproj|e:\\diplom\\diplom\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\migrations\\usersdb\\20241204150933_intialroleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:migrations\\usersdb\\20241204150933_intialroleseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\studyproj.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:studyproj.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\migrations\\usersdb\\20241204163402_userrolepopulated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:migrations\\usersdb\\20241204163402_userrolepopulated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|e:\\diplom\\diplom\\studyproj\\migrations\\usersdb\\20241207182852_users2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57CE6BBC-7A08-4761-A7E6-CB5302A0415D}|StudyProj.csproj|solutionrelative:migrations\\usersdb\\20241207182852_users2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1191165273:0:{81164725-9a96-4ece-a4cb-440d8fd285e5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Schedule\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Schedule\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:43:58.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Schedule\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Schedule\\Create.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:23:03.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Schedule\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Schedule\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:20:14.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\AttendanceViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\AttendanceViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\AttendanceViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\AttendanceViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:28:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAUwGgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:03:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MappingProfile.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\MappingProfile.cs",
+              "RelativeToolTip": "MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:36:11.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Role.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Role.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:53:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Chief.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Chief.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Chief.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Chief.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Chief.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:00:14.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Discipline.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Discipline.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Discipline.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Discipline.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Discipline.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:02:13.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T18:45:13.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Attendance\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Attendance\\Create.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAkwFUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T14:32:04.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T12:57:44.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Teacher\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Teacher\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Attendance\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Attendance\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:14.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChiefController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\ChiefController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\ChiefController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\ChiefController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\ChiefController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAswGwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:41.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Attendance\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Attendance\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:42:51.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAqwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:25:33.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Teacher.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Teacher.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:02:56.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Semestr.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Semestr.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Semestr.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Semestr.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Semestr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:57:57.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\BaseModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\BaseModel.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:04:21.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Schedule.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Schedule.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Schedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:57:56.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Attendance.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Attendance.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Attendance.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T13:38:28.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TimeSpanConverter.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\TimeSpanConverter.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\TimeSpanConverter.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\TimeSpanConverter.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\TimeSpanConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:09:18.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChiefViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\ChiefViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\ChiefViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\ChiefViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\ChiefViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:28:15.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\RegisterController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:33:42.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Attendance\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Attendance\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Attendance\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:55:33.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\ScheduleViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\ScheduleViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\ScheduleViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:55:35.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FacilityController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\FacilityController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\FacilityController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\FacilityController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\FacilityController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAASwGgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SemestrController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\SemestrController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\SemestrController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\SemestrController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\SemestrController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:48.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\TeacherController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAowG8AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:35:50.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\ScheduleController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCUAAADDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:40.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAswHEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:40.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AttendanceRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\AttendanceRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\AttendanceRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\AttendanceRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\AttendanceRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:33:48.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Discipline\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Discipline\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAE4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:04.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\GroupController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAADwv3EAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:38.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ScheduleController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\ScheduleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ScheduleController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\ScheduleController.cs",
+              "RelativeToolTip": "Controllers\\ScheduleController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAqwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:26:46.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GroupRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\GroupRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\GroupRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\GroupRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:34:40.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ScheludeRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\ScheludeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ScheludeRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\ScheludeRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ScheludeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:34:54.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "FacilityRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\FacilityRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\FacilityRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\FacilityRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\FacilityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:34:25.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:35:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\TeacherRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\TeacherRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\TeacherRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\TeacherRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:35:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Student.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Student.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:57:58.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\User.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:05:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GroupController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "Controllers\\GroupController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA2wEEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:40:30.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Controllers\\AttendanceController.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAmwHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:12:59.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAzwB0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:46:53.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SemestrController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\SemestrController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SemestrController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\SemestrController.cs",
+              "RelativeToolTip": "Controllers\\SemestrController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:46:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DisciplineController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\DisciplineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DisciplineController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\DisciplineController.cs",
+              "RelativeToolTip": "Controllers\\DisciplineController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwG4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:18:15.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FacilityContrroller.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\FacilityContrroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacilityContrroller.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\FacilityContrroller.cs",
+              "RelativeToolTip": "Controllers\\FacilityContrroller.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAwwG0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:18:30.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Discipline\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Discipline\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:18:31.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "DisciplineViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\DisciplineViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\DisciplineViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\DisciplineViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\DisciplineViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:28:23.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DisciplineController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\DisciplineController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\DisciplineController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\DisciplineController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\DisciplineController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwHMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:36.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Teacher\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Teacher\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:46:45.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Teacher\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Teacher\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:47:20.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Teacher\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Teacher\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Teacher\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:46:51.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:45:46.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:45:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\StudentViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\StudentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:55:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TeacherViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\TeacherViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\TeacherViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\TeacherViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\TeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T18:03:12.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:46:28.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Schedule\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Schedule\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Schedule\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T14:43:57.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Group\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Group\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:22:33.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Group\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Group\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:21:56.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Group\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Group\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:01:07.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "GroupViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\GroupViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\GroupViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\GroupViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\GroupViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T17:55:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Group.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Group.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Group.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:02:26.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "FacilityViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\ViewModel\\FacilityViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ViewModel\\FacilityViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\ViewModel\\FacilityViewModel.cs",
+              "RelativeToolTip": "..\\Domain\\ViewModel\\FacilityViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T15:22:59.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Facility.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Models\\Facility.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Models\\Facility.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Models\\Facility.cs",
+              "RelativeToolTip": "..\\Domain\\Models\\Facility.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:00:15.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Discipline\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Discipline\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:19:01.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Chief\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Chief\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:17:58.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Discipline\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Discipline\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Discipline\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T13:44:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Chief\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Chief\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:17:28.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Chief\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Chief\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:17:01.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Facility\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Facility\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:19:52.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UserForRegistrationDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\UserForRegistrationDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UserForRegistrationDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\UserForRegistrationDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\UserForRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:07:02.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Facility\\Delete.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Delete.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Facility\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:20:24.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Facility\\Edit.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Edit.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Facility\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T11:20:46.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Facility\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Facility\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Facility\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:28:57.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T19:01:41.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Student\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAEQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "StudyProj.csproj",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\StudyProj.csproj",
+              "RelativeDocumentMoniker": "StudyProj.csproj",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\StudyProj.csproj",
+              "RelativeToolTip": "StudyProj.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T07:43:25.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Group\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Group\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Group\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:28:52.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeacherController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:26:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ChiefController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\ChiefController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ChiefController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\ChiefController.cs",
+              "RelativeToolTip": "Controllers\\ChiefController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:46:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "AccountsController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\AccountsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountsController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\AccountsController.cs",
+              "RelativeToolTip": "Controllers\\AccountsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:12:57.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Program.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Program.cs",
+              "RelativeToolTip": "..\\Presentation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T19:14:15.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "PaginatedList.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\PaginatedList.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\PaginatedList.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\PaginatedList.cs",
+              "RelativeToolTip": "..\\Presentation\\PaginatedList.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:52:52.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T19:07:29.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Presentation\\appsettings.json",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\appsettings.json",
+              "RelativeToolTip": "..\\Presentation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T19:52:04.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Chief\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Chief\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Chief\\Index.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T19:29:10.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "Authentication.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Register\\Authentication.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Register\\Authentication.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Register\\Authentication.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Register\\Authentication.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:47:25.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Register\\Register.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Register\\Register.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Register\\Register.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Register\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T11:45:28.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-07T13:20:55.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\AuthResponseDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\AuthResponseDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\AuthResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:01:26.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ResetPasswordDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\ResetPasswordDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\ResetPasswordDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\ResetPasswordDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\ResetPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:36:49.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "RegistrationResponseDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\RegistrationResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\RegistrationResponseDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\RegistrationResponseDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\RegistrationResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:10:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\ForgotPasswordDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\ForgotPasswordDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:16:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-04T07:45:07.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "UserRoleDTO.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\UserRoleDTO.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UserRoleDTO.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\UserRoleDTO.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\UserRoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:55:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "UserForAuthenticationDto.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\DTO\\UserForAuthenticationDto.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\DTO\\UserForAuthenticationDto.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\DTO\\UserForAuthenticationDto.cs",
+              "RelativeToolTip": "..\\Domain\\DTO\\UserForAuthenticationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:59:55.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "UserRoleConfiguration.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\SeedConfiguration\\UserRoleConfiguration.cs",
+              "RelativeDocumentMoniker": "SeedConfiguration\\UserRoleConfiguration.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\SeedConfiguration\\UserRoleConfiguration.cs",
+              "RelativeToolTip": "SeedConfiguration\\UserRoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:27:19.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\SeedConfiguration\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "SeedConfiguration\\RoleConfiguration.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\SeedConfiguration\\RoleConfiguration.cs",
+              "RelativeToolTip": "SeedConfiguration\\RoleConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:59:11.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "ApplicationContext.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\ApplicationContext.cs",
+              "RelativeToolTip": "ApplicationContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:13:30.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "UsersDbContext.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\UsersDbContext.cs",
+              "RelativeToolTip": "UsersDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:44:55.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "DisciplineReposotory.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\DisciplineReposotory.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\DisciplineReposotory.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\DisciplineReposotory.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\DisciplineReposotory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:34:09.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "ChiefRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\ChiefRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\ChiefRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\ChiefRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\ChiefRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:27:07.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\BaseRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Implementations\\BaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:33:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Repositories\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "Repositories\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:32:56.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "JwtHandler.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\JwtFeatures\\JwtHandler.cs",
+              "RelativeDocumentMoniker": "JwtFeatures\\JwtHandler.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\JwtFeatures\\JwtHandler.cs",
+              "RelativeToolTip": "JwtFeatures\\JwtHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAswEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:03:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolesController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "Controllers\\RolesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:34:25.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\Presentation\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T08:14:49.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "..\\Presentation\\appsettings.Development.json",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\appsettings.Development.json",
+              "RelativeToolTip": "..\\Presentation\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T08:12:53.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T18:45:14.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\Presentation\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\Presentation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T20:36:39.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "EmailService.csproj",
+              "DocumentMoniker": "E:\\diplom\\diplom\\EmailService\\EmailService.csproj",
+              "RelativeDocumentMoniker": "..\\EmailService\\EmailService.csproj",
+              "ToolTip": "E:\\diplom\\diplom\\EmailService\\EmailService.csproj",
+              "RelativeToolTip": "..\\EmailService\\EmailService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T17:25:06.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\EmailService\\Message.cs",
+              "RelativeDocumentMoniker": "..\\EmailService\\Message.cs",
+              "ToolTip": "E:\\diplom\\diplom\\EmailService\\Message.cs",
+              "RelativeToolTip": "..\\EmailService\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:26:24.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\EmailService\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "..\\EmailService\\IEmailSender.cs",
+              "ToolTip": "E:\\diplom\\diplom\\EmailService\\IEmailSender.cs",
+              "RelativeToolTip": "..\\EmailService\\IEmailSender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:33:06.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\EmailService\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\EmailService\\EmailConfiguration.cs",
+              "ToolTip": "E:\\diplom\\diplom\\EmailService\\EmailConfiguration.cs",
+              "RelativeToolTip": "..\\EmailService\\EmailConfiguration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T17:22:53.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-08T19:46:22.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T18:47:45.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "Presentation.csproj",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Presentation.csproj",
+              "RelativeDocumentMoniker": "..\\Presentation\\Presentation.csproj",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Presentation.csproj",
+              "RelativeToolTip": "..\\Presentation\\Presentation.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T17:09:22.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20241207182852_users2.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241207182852_users2.cs",
+              "RelativeDocumentMoniker": "Migrations\\UsersDb\\20241207182852_users2.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241207182852_users2.cs",
+              "RelativeToolTip": "Migrations\\UsersDb\\20241207182852_users2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:28:52.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "..\\Presentation\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-05T19:27:22.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
+              "ToolTip": "E:\\diplom\\diplom\\Domain\\Domain.csproj",
+              "RelativeToolTip": "..\\Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T07:59:15.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\diplom\\diplom\\Presentation\\Views\\Semestr\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Presentation\\Views\\Semestr\\Create.cshtml",
+              "ToolTip": "E:\\diplom\\diplom\\Presentation\\Views\\Semestr\\Create.cshtml",
+              "RelativeToolTip": "..\\Presentation\\Views\\Semestr\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T18:48:00.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\EmailService\\EmailSender.cs",
+              "RelativeDocumentMoniker": "..\\EmailService\\EmailSender.cs",
+              "ToolTip": "E:\\diplom\\diplom\\EmailService\\EmailSender.cs",
+              "RelativeToolTip": "..\\EmailService\\EmailSender.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAArwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T18:34:00.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "20241204163402_UserRolePopulated.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241204163402_UserRolePopulated.cs",
+              "RelativeDocumentMoniker": "Migrations\\UsersDb\\20241204163402_UserRolePopulated.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241204163402_UserRolePopulated.cs",
+              "RelativeToolTip": "Migrations\\UsersDb\\20241204163402_UserRolePopulated.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T16:34:02.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "20241204150933_IntialRoleSeed.cs",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241204150933_IntialRoleSeed.cs",
+              "RelativeDocumentMoniker": "Migrations\\UsersDb\\20241204150933_IntialRoleSeed.cs",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\Migrations\\UsersDb\\20241204150933_IntialRoleSeed.cs",
+              "RelativeToolTip": "Migrations\\UsersDb\\20241204150933_IntialRoleSeed.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T15:09:34.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "StudyProj.http",
+              "DocumentMoniker": "E:\\diplom\\diplom\\StudyProj\\StudyProj.http",
+              "RelativeDocumentMoniker": "StudyProj.http",
+              "ToolTip": "E:\\diplom\\diplom\\StudyProj\\StudyProj.http",
+              "RelativeToolTip": "StudyProj.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-04T07:16:30.335Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

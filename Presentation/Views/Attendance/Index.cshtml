@@ -1,0 +1,84 @@
+﻿@model PaginatedList<Domain.Models.Attendance>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Посещения</h1>
+
+<p>
+    <a asp-action="Create">Создать</a>
+</p>
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            <input type="text" placeholder="Студент" name="SearchStudentName" value="@ViewData["SearchStudentName"]" />
+            <input type="text" placeholder="Дата" name="SearchAttendanceDate" value="@ViewData["SearchAttendanceDate"]" />
+            <input type="text" placeholder="Дисциплина" name="SearchDisciplineName" value="@ViewData["SearchDisciplineName"]" />
+            <input type="time" placeholder="Начало" name="SearchStartTime" value="@ViewData["SearchStartTime"]" />
+            <input type="submit" value="Поиск" class="btn btn-default" /> 
+            <a asp-action="Index">Вернуться к полному списку</a>
+        </p>
+    </div>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Студент
+            </th>
+            <th>
+                Время
+            </th>
+            <th>
+                Дата
+            </th>
+            <th>
+                Дисциплина
+            </th>
+            <th>
+                Присутствие
+            </th>
+@*             <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Student.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Schedule.StartTime)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AttendanceDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Schedule.Discipline.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsPresent)
+            </td>
+@*             <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td> *@
+            <td>
+                @Html.ActionLink("Обновить", "Edit", new {  id=item.Id  }) |
+                @Html.ActionLink("Удалить", "Delete", new { id=item.Id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+<a asp-action="Index"
+   asp-route-pageNumber="@(Model.PageIndex - 1)">
+    Предыдущая
+</a>
+<a asp-action="Index"
+   asp-route-pageNumber="@(Model.PageIndex + 1)">
+    Следущая
+</a>
